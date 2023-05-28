@@ -1,12 +1,12 @@
 {
-  "prefix": "your prefix",
-  "token": "your token",
-  "owners": ["OWNER ID"],
-  "footer": "NSFW Bot • is.gd/nsfwbot",
+  "prefix": "z$",
+  "token": "MTExMjM2MzYxNzIwNDA0NzkwMg.Go8pRb.w8-cSg0OC8a8k4T8tIDtBUl3xjgOqVqr9PaSpE",
+  "owners": ["728227226935492679"],
+  "footer": "Dev - ZoidPark",
 
   "msg": {
-    "nsfwWarn": "You must use this command in an nsfw channel!",
-    "loading": "Please wait...",
+    "nsfwWarn": "Welp ZoidPark says, you must use this in nsfw channel.",
+    "loading": "Hold your cum....",
     "imageNotLoading": "Image not loading ? Click Here"
   }
 }
